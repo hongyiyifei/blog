@@ -1,0 +1,10 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true,
+    "python.venvPath": "C:\\Users\\hongy\\Envs",
+    "python.workspaceSymbols.exclusionPatterns": [
+        "**/site-packages/**",
+        "C:\\Users\\hongy\\Envs\\blog\\Lib\\site-packages\\pymysql"
+    ],
+    "python.pythonPath": "C:\\Users\\hongy\\envs\\blog\\Scripts\\python.exe"
+}
